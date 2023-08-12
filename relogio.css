@@ -78,17 +78,13 @@ body {
     background-color: #033c57;
 }
 
-media (max-width: 600px) {
+@media (max-width: 600px) {
     .containerPrincipal {
         display: flex;
         flex-direction: column;
         height: 500px;
         width: 300px;
         gap: 60px;
-    }
-    
-    .RelogioContainer {
-        
     }
     
     .doisPontos {
