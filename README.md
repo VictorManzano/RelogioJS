@@ -1,6 +1,6 @@
 # Titulo: Relógio digital simples.
 
-## Acessar: https://victormanzano.github.io/cadastro-login/
+## Acessar: https://victormanzano.github.io/RelogioJS/
 
 ## Ferramentas:
 - HTML
